@@ -1,0 +1,9 @@
+thead th{
+    color : #74869a;
+}
+tbody tr td {
+    color: #84878c;
+}
+a:hover{
+    text-decoration: none;
+}
